@@ -1,0 +1,5 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andres','quimbayo','anquimbayo@corhuila.edu.co', '2023-01-12')
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Lucia','quimbayo','anquimbayo@corhuila.edu.co', '2023-03-12')
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Valentina','castro','anquimbayo@corhuila.edu.co', '2023-04-12')
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andrea','perez','anquimbayo@corhuila.edu.co', '2023-05-12')
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andres','rodriguez','anquimbayo@corhuila.edu.co', '2023-07-12')
